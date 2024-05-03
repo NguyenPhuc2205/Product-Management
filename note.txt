@@ -1,0 +1,14 @@
+container     va  row se bu trừ cho nhau
+(padding+10px)    (margin-10px)
+
+Để thực thi ứng dụng: 
+1. Các you vào phần Extension (Ctrl Shift X nếu lười)
+2. Tải Extension "Live Server" (Cái đầu tiên, 47.2M lượt download)
+3. Vào file html cần chạy (lưu ý phải là file html)
+4. Alt + L + O để chạy
+   hoặc bấm chọn nút "Go Live" trên Status bar
+
+*. Code hiển thị khi hover giỏ và đơn đang gần giống nhau
+=> Cần tối ưu code
+
+*. Format lại phần giá tiền khi đổ từ database sang (64.350)
