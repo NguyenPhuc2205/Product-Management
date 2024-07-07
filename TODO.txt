@@ -1,5 +1,0 @@
-Fix lại header
-Giảm size của các icon, title
-
-Sửa lại 4 icon theo thông báo, đơn, giỏ | Tài khoản
-hover thì icon đẩy lên trên, có tên thông báo ở dưới
